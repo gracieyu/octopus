@@ -24,7 +24,7 @@
 
 d = {
     'name': 'Gracie',
-    "lover": "Emerson",
+    "lover": "Tennyson",
 }
 d.get('o','p')
 
